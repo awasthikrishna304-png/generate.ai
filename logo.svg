@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40" fill="none">
+  <!-- T letter -->
+  <path d="M15 8H30V13H25V32H20V13H15V8Z" fill="#3B82F6"/>
+  
+  <!-- E letter -->
+  <path d="M35 8H50V13H40V17H48V22H40V27H50V32H35V8Z" fill="#3B82F6"/>
+  
+  <!-- J letter -->
+  <path d="M55 8H70V27C70 28.3261 69.4732 29.5979 68.5355 30.5355C67.5979 31.4732 66.3261 32 65 32H55V27H65V8Z" fill="#3B82F6"/>
+  
+  <!-- A letter -->
+  <path d="M75 32V8H90V32H85V22H80V32H75ZM80 13V17H85V13H80Z" fill="#3B82F6"/>
+  
+  <!-- S letter -->
+  <path d="M95 13V8H110V13H100V17H110V27V32H95V27H105V22H95V13Z" fill="#3B82F6"/>
+  
+  <!-- Video icon -->
+  <circle cx="10" cy="20" r="8" fill="#DBEAFE"/>
+  <path d="M8 16L14 20L8 24V16Z" fill="#3B82F6"/>
+</svg>

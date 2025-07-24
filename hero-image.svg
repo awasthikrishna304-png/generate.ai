@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" fill="none">
+  <!-- Background -->
+  <rect width="600" height="400" rx="20" fill="#F3F4F6"/>
+  
+  <!-- Video frame -->
+  <rect x="100" y="50" width="400" height="250" rx="10" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+  
+  <!-- Video player controls -->
+  <rect x="100" y="300" width="400" height="50" rx="10" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+  <circle cx="130" cy="325" r="15" fill="#3B82F6"/>
+  <path d="M135 325L127 330V320L135 325Z" fill="white"/>
+  <rect x="160" y="320" width="200" height="10" rx="5" fill="#E5E7EB"/>
+  <rect x="160" y="320" width="80" height="10" rx="5" fill="#3B82F6"/>
+  <rect x="380" y="320" width="30" height="10" rx="5" fill="#E5E7EB"/>
+  <rect x="420" y="320" width="30" height="10" rx="5" fill="#E5E7EB"/>
+  <rect x="460" y="320" width="30" height="10" rx="5" fill="#E5E7EB"/>
+  
+  <!-- Video content elements -->
+  <rect x="150" y="100" width="300" height="40" rx="5" fill="#EFF6FF"/>
+  <rect x="150" y="160" width="300" height="10" rx="5" fill="#E5E7EB"/>
+  <rect x="150" y="180" width="250" height="10" rx="5" fill="#E5E7EB"/>
+  <rect x="150" y="200" width="200" height="10" rx="5" fill="#E5E7EB"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="50" cy="50" r="20" fill="#DBEAFE"/>
+  <circle cx="550" cy="350" r="20" fill="#DBEAFE"/>
+  <circle cx="50" cy="350" r="10" fill="#93C5FD"/>
+  <circle cx="550" cy="50" r="10" fill="#93C5FD"/>
+  
+  <!-- AI elements -->
+  <path d="M300 250C310 240 320 260 330 250C340 240 350 260 360 250" stroke="#3B82F6" stroke-width="3" stroke-linecap="round"/>
+  <path d="M240 250C250 240 260 260 270 250C280 240 290 260 300 250" stroke="#3B82F6" stroke-width="3" stroke-linecap="round"/>
+</svg>
