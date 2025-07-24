@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+/frontend/node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build files
+/dist
+/frontend/dist
+/frontend/build
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Generated videos
+/videos/*
+!/videos/.gitkeep
+
+# Generated data
+/data/bg_music/*
+!/data/bg_music/.gitkeep
+/data/templates/*
+!/data/templates/.gitkeep
+/data/voices/*
+!/data/voices/.gitkeep
